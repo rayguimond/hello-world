@@ -1,6 +1,6 @@
 # hello-world
-just another repository
+NOT just another repository
 
-36yo male
+36 year old white male
 terrestrial carbon-based life form.
 lives on a wet-dirt-ball travelling 67K mph around an exploding ball of hydrogen
